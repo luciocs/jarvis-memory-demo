@@ -1,12 +1,14 @@
-# Memória fictícia para a luva de voz
+# Memória fictícia — exemplo padrão do Sarandip Server casa
 
-Este repositório é uma memória fictícia, no estilo do MCU, feita para um teste privado da luva de voz. Não é uma pessoa real.
+Este repositório é a memória de exemplo padrão do Sarandip Server casa. É memória fictícia, no estilo do MCU. Não é uma pessoa real.
 
-This is a fictional MCU-style demo memory for a private voice-glove test, not a real person.
+This repository is the default example memory of Sarandip Server casa. It is fictional MCU-style memory, not a real person.
 
 Tony Stark segue vivo nesta continuidade alternativa, num presente cotidiano: Pepper Potts, Morgan Stark, a Stark Industries e a oficina. Onde isso diverge de um desfecho de filme, o rótulo é ficção. Não há dados de nenhuma pessoa real.
 
-O repositório deve permanecer privado.
+Aviso: este repositório é público de propósito. Nunca deve receber dados pessoais reais nem segredos.
+
+Warning: this repository is public on purpose. It must never receive real personal data or secrets.
 
 ## Como a luva lê
 
